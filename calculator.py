@@ -8,3 +8,7 @@ def subtract(a, b):
 
 def devideNew(a, b):
   return a/b
+
+
+def say_hello():
+  print("hello")
