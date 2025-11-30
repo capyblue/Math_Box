@@ -6,5 +6,5 @@ def subtract(a, b):
   return a-b
 
 
-def divide_premium(a, b):
-    return a/b
+def devideNew(a, b):
+  return a/b
